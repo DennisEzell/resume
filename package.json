@@ -1,16 +1,16 @@
 {
-  "name": "Steven-Resume",
+  "name": "Dennis-Resume",
   "version": "0.0.0",
-  "description": "Azure TED Continous Integration Demo",
+  "description": "Dennis Ezell's resume",
   "main": "app.js",
   "author": {
-    "name": "sedouard",
+    "name": "Dennis Ezell",
     "email": ""
   },
-  "scripts" : {
-	"test": "node ./node_modules/resume-cli/index.js export index -f html"
+  "scripts": {
+    "test": "node ./node_modules/resume-cli/index.js export index -f html --theme elegant"
   },
   "dependencies": {
-    "resume-cli": "^0.3.10"
+    "resume-cli": "^0.4.19"
   }
 }
