@@ -17,41 +17,107 @@
     "profiles": []
   },
   "work": [
-    {
+	{
+      "company": "CentralSquare Technologies (Merged Aptean public sector with Superion, Tritech, and Zuercher)",
+      "position": "Software Engineer",
+      "website": "https://www.centralsqr.com/",
+      "startDate": "2018-09-03",
+      "summary": "Jurisdiction Online - Project rollout lead team member",
+      "highlights": [
+		"Self-directed, Full stack Microsoft based development using ASP.NET combined with SQL Server",
+		"Lead member of project rollout team responsible for bringing new clients into the Jurisdiction Online system",
+		"Work with solution architects to provide overall project technical direction",
+		"Mentor new and less experienced developers",
+		"Serve as the lead project developer"		
+	  ]
+    },
+	{
+      "company": "Aptean (Acquired Jurisdiction Online from Praeses)",
+      "position": "Software Engineer",
+      "website": "https://www.aptean.com/our-company/about-us",
+      "startDate": "2017-12-04",
+      "endDate": "2018-09-03",
+      "summary": "Jurisdiction Online - Project rollout lead team member",
+      "highlights": [
+		"Self-directed, Full stack Microsoft based development using ASP.NET combined with SQL Server",
+		"Lead member of project rollout team responsible for bringing new clients into the Jurisdiction Online system",
+		"Design and implement new Case Management module within Jurisdiction Online leveraging new Hangfire service",
+		"Adopt Aurelia as the go-forward front-end technology for new development",
+		"Work with solution architects to provide overall project technical direction",
+		"Mentor new and less experienced developers",
+		"Serve as the lead project developer"		
+	  ]
+    },
+	{
+      "company": "Praeses",
+      "position": "Software Developer III",
+      "website": "https://www.praeses.com/",
+      "startDate": "2017-06-05",
+      "endDate": "2017-12-01",
+      "summary": "Jurisdiction Online - Project rollout senior team member",
+      "highlights": [
+		"Self-directed, Full stack Microsoft based development using ASP.NET combined with SQL Server",
+		"Senior member of project rollout team responsible for bringing new clients into the Jurisdiction Online system",
+		"Design and implement new Exam Management module within Jurisdiction Online",
+		"Serve as backup to lead project developer"		
+	  ]
+    },
+	{
+      "company": "Praeses",
+      "position": "Software Developer II",
+      "website": "https://www.praeses.com/",
+      "startDate": "2016-12-19",
+      "endDate": "2017-06-02",
+      "summary": "Jurisdiction Online - Project rollout team member",
+      "highlights": [
+		"Self-directed, full stack Microsoft based development using ASP.NET combined with SQL Server",
+		"Operate within an Agile Scrum team",
+		"Member of project rollout team responsible for bringing new clients into the Jurisdiction Online system",
+		"Design and implement new Exam Management module within Jurisdiction Online"
+	  ]
+	},
+	    {
       "company": "CenturyLink",
       "position": "Software Developer II",
       "website": "https://www.centurylink.com/",
-      "startDate": "2012-06-10",
-      "endDate": "2015-08-27",
-      "summary": "CenturyLink is a multinational Fortune 500 telecommunication company that provides communication and data services to residential, business, government, and wholesale customers",
+      "startDate": "2016-06-06",
+      "endDate": "2016-12-16",
+      "summary": "Business Support Systems - Project initiative team member",
       "highlights": [
-        "Collaborate with development teams on the execution of ideas/projects.",
-        "Create low-level design documentation based on system requirements ",
-        "Implement new code functionality based on approved design"
+        "UI/Middleware development using Spring based REST services and Spring MVC for front-end interfaces",
+		"Cross-functional Agile team member for product initiative to consolidate legacy systems",
+		"Create REST based web-services for new project initiative data models",
+        "Create UI code to consume new REST web service data"
       ]
     },
-    {
+	{
       "company": "Praeses",
       "position": "Software Developer I",
       "website": "https://www.praeses.com/",
       "startDate": "2015-08-30",
       "endDate": "2016-06-01",
-      "summary": "Customer success developer supporting the Jurisdiction Online product that supports regulatory code enforcement, risk management, and accounting workflows for numerous jurisdictions and insurance carriers",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "https://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "summary": "Jurisdiction Online - Customer support queue team member",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+		"Full stack Microsoft based development using ASP.NET combined with SQL Server",
+		"Operate within an Agile methodology using Kanban for ticket prioritization",
+		"Work with support staff and clients to perform defect resolution"
+	  ]
+	},
+	{
+      "company": "CenturyLink",
+      "position": "Software Developer II",
+      "website": "https://www.centurylink.com/",
+      "startDate": "2012-06-10",
+      "endDate": "2015-08-27",
+      "summary": "Ensemble UI - Billing system user interface team member",
+      "highlights": [
+        "UI development using the Spring MVC framework in conjunction with JavaServer Pages",
+		"Collaborate with development teams on the execution of ideas/projects.",
+        "Create low-level design documentation based on system requirements ",
+        "Implement new code functionality based on approved design",
+		"Operate within a Waterfall methodology"	
       ]
-    }
+    } 
   ],
   "education": [
     {
@@ -65,14 +131,6 @@
         "DB1101 - Basic SQL",
         "CS2011 - Java Introduction"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
     }
   ],
   "publications": [
