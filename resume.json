@@ -14,7 +14,18 @@
       "countryCode": "US",
       "region": "Louisiana"
     },
-    "profiles": []
+    "profiles": [
+		{
+			"network": "Linkedin",
+			"username": "Dennis Ezell",
+			"url" : "https://www.linkedin.com/in/dennis-ezell-bb49b970/"
+		},
+		{
+			"network": "GitHub",
+			"username": "Deeze814",
+			"url" : "https://github.com/Deeze814"
+		}
+	]
   },
   "work": [
 	{
