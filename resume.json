@@ -205,17 +205,6 @@
 		"Agile Zen",
 		"Rally"
       ]
-    },
-	{
-      "name": "Development Tools",
-      "keywords": [
-        "Visual Studios",
-		"SQL Server Management Studio",
-		"SQL Server Profiler",
-		"PowerShell",
-		"Eclipse",
-		"PL/SQL Developer"
-      ]
     }
   ],
   "references": [
