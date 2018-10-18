@@ -60,9 +60,9 @@
 	  ]
     },
 	{
-      "company": "Praeses",
-      "position": "Software Developer III",
-      "website": "https://www.praeses.com/",
+      "company": "Jurisdiction Online (Praeses/Aptean/CentralSquare Technologies)",
+      "position": "Software Developer III / Software Engineer",
+	  "website": "https://www.publicadminsoftware.com/public-sector-solutions/aptean-jurisdiction-online/",
       "startDate": "2017-06-05",
       "endDate": "2017-12-01",
       "summary": "Jurisdiction Online - Project rollout senior team member",
@@ -74,9 +74,9 @@
 	  ]
     },
 	{
-      "company": "Praeses",
-      "position": "Software Developer II",
-      "website": "https://www.praeses.com/",
+      "company": "Jurisdiction Online (Praeses)",
+      "position": "Software Developer II",     
+	  "website": "https://www.publicadminsoftware.com/public-sector-solutions/aptean-jurisdiction-online/",	  
       "startDate": "2016-12-19",
       "endDate": "2017-06-02",
       "summary": "Jurisdiction Online - Project rollout team member",
@@ -216,11 +216,6 @@
 		"Agile Zen",
 		"Rally"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"      
     }
   ]
 }
