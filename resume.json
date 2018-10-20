@@ -29,48 +29,18 @@
   },
   "work": [
 	{
-      "company": "CentralSquare Technologies (Merged Aptean public sector with Superion, Tritech, and Zuercher)",
-      "position": "Software Engineer",
-      "website": "https://www.centralsqr.com/",
-      "startDate": "2018-09-03",
-      "summary": "Jurisdiction Online - Project rollout lead team member",
-      "highlights": [
-		"Self-directed, Full stack Microsoft based development using ASP.NET combined with SQL Server",
-		"Lead member of project rollout team responsible for bringing new clients into the Jurisdiction Online system",
-		"Work with solution architects to provide overall project technical direction",
-		"Mentor new and less experienced developers",
-		"Serve as the lead project developer"		
-	  ]
-    },
-	{
-      "company": "Aptean (Acquired Jurisdiction Online from Praeses)",
-      "position": "Software Engineer",
-      "website": "https://www.aptean.com/our-company/about-us",
-      "startDate": "2017-12-04",
-      "endDate": "2018-09-03",
-      "summary": "Jurisdiction Online - Project rollout lead team member",
-      "highlights": [
-		"Self-directed, Full stack Microsoft based development using ASP.NET combined with SQL Server",
-		"Lead member of project rollout team responsible for bringing new clients into the Jurisdiction Online system",
-		"Design and implement new Case Management module within Jurisdiction Online leveraging new Hangfire service",
-		"Adopt Aurelia as the go-forward front-end technology for new development",
-		"Work with solution architects to provide overall project technical direction",
-		"Mentor new and less experienced developers",
-		"Serve as the lead project developer"		
-	  ]
-    },
-	{
       "company": "Jurisdiction Online (Praeses/Aptean/CentralSquare Technologies)",
       "position": "Software Developer III / Software Engineer",
 	  "website": "https://www.publicadminsoftware.com/public-sector-solutions/aptean-jurisdiction-online/",
       "startDate": "2017-06-05",
-      "endDate": "2017-12-01",
-      "summary": "Jurisdiction Online - Project rollout senior team member",
+      "summary": "Senior project rollout team member",
       "highlights": [
-		"Self-directed, Full stack Microsoft based development using ASP.NET combined with SQL Server",
-		"Senior member of project rollout team responsible for bringing new clients into the Jurisdiction Online system",
-		"Design and implement new Exam Management module within Jurisdiction Online",
-		"Serve as backup to lead project developer"		
+		"Full-stack, self-directed Microsoft .NET development within an Agile Scrum team",
+		"Work with solution architects to provide overall technical direction for the project",
+		"Serve as subject matter expert when breaking down project epics into component stories",		
+		"Design and implement new case management module within Jurisdiction Online leveraging new Hangfire service",
+		"Utilize git based repository and automated build/deployment process to achieve continuous integration ",		
+		"Mentor new and less experienced developers"
 	  ]
     },
 	{
@@ -79,12 +49,12 @@
 	  "website": "https://www.publicadminsoftware.com/public-sector-solutions/aptean-jurisdiction-online/",	  
       "startDate": "2016-12-19",
       "endDate": "2017-06-02",
-      "summary": "Jurisdiction Online - Project rollout team member",
+      "summary": "Project rollout team member",
       "highlights": [
-		"Self-directed, full stack Microsoft based development using ASP.NET combined with SQL Server",
-		"Operate within an Agile Scrum team",
-		"Member of project rollout team responsible for bringing new clients into the Jurisdiction Online system",
-		"Design and implement new Exam Management module within Jurisdiction Online"
+		"Full-stack, self-directed Microsoft .NET development within an Agile Scrum team",
+		"Member of project rollout team responsible for bringing new clients into the Jurisdiction Online application",
+		"Collaborate within the project team to perform code reviews and module design",
+		"Design and implement new exam management module within Jurisdiction Online"		
 	  ]
 	},
 	    {
@@ -93,25 +63,25 @@
       "website": "https://www.centurylink.com/",
       "startDate": "2016-06-06",
       "endDate": "2016-12-16",
-      "summary": "Business Support Systems - Project initiative team member",
+      "summary": "Business Support Systems - Project initiative team",
       "highlights": [
-        "UI/Middleware development using Spring based REST services and Spring MVC for front-end interfaces",
-		"Cross-functional Agile team member for product initiative to consolidate legacy systems",
-		"Create REST based web-services for new project initiative data models",
-        "Create UI code to consume new REST web service data"
+        "Leverage Java/Spring to produce REST based web services and front-end interfaces",
+		"Cross-functional Agile team member for new product initiative to consolidate legacy systems",
+		"Work with business partners to facilitate organizational transition from waterfall to Agile methodology"
       ]
     },
 	{
-      "company": "Praeses",
+      "company": "Jurisdiction Online (Praeses)",
       "position": "Software Developer I",
-      "website": "https://www.praeses.com/",
+      "website": "https://www.publicadminsoftware.com/public-sector-solutions/aptean-jurisdiction-online/",
       "startDate": "2015-08-30",
       "endDate": "2016-06-01",
-      "summary": "Jurisdiction Online - Customer support queue team member",
+      "summary": "Customer support queue team",
       "highlights": [
-		"Full stack Microsoft based development using ASP.NET combined with SQL Server",
-		"Operate within an Agile methodology using Kanban for ticket prioritization",
-		"Work with support staff and clients to perform defect resolution"
+		"Full-stack Microsoft .NET development leveraging Agile Kanban for ticket prioritization",
+		"Resolve high priority issues preventing clients from utilizing system workflows",
+		"Work with support staff and clients to perform defect resolution and system enhancements",
+		"Perform peer code reviews for all code submissions"
 	  ]
 	},
 	{
@@ -120,13 +90,12 @@
       "website": "https://www.centurylink.com/",
       "startDate": "2012-06-10",
       "endDate": "2015-08-27",
-      "summary": "Ensemble UI - Billing system user interface team member",
+      "summary": "Ensemble UI - Consumer ordering interface team",
       "highlights": [
-        "UI development using the Spring MVC framework in conjunction with JavaServer Pages",
-		"Collaborate with development teams on the execution of ideas/projects.",
-        "Create low-level design documentation based on system requirements ",
-        "Implement new code functionality based on approved design",
-		"Operate within a Waterfall methodology"	
+		"Java/Spring MVC based UI development within a quarterly based waterfall release schedule",
+		"Coordinate with back-end/middle-ware Ensemble developers to finalize system requirements produced by system analysts",
+		"Design, implement, and integrate medium complexity business requests within the Ensemble ordering platform",		
+		"Perform unit/integration testing and defect resolution"
       ]
     } 
   ],
