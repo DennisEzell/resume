@@ -39,7 +39,7 @@
 		"Work with solution architects to provide overall technical direction for the project",
 		"Serve as subject matter expert when breaking down project epics into component stories",		
 		"Design and implement new case management module leveraging an Aurelia based front end with an ASP.NET Web API backend",
-		"Create new Hangfire background job to perform nightly tasks for newly created case management module."
+		"Create new Hangfire background job to perform nightly tasks for newly created case management module.",
 		"Utilize git based repository and automated build/deployment process to achieve continuous integration ",		
 		"Mentor new and less experienced developers"
 	  ]
