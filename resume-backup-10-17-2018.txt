@@ -1,0 +1,221 @@
+{
+  "basics": {
+    "name": "Dennis Ezell",
+    "label": "Software Engineer",
+    "picture": "https://s.gravatar.com/avatar/995f6c8a3b8e85d9c77a8c1b67b9d870?s=80",
+    "email": "Dezell2002@gmail.com",
+    "phone": "(318) 331-5154",
+    "website": "",
+    "summary": "Proactive software developer with experience in full stack development and maintenance of complex and business critical systems. Currently working within a Microsoft technology stack with previous experience in a Java/Oracle stack.",
+    "location": {
+      "address": "3100 Deborah Dr., Apt 97",
+      "postalCode": "71201",
+      "city": "Monroe",
+      "countryCode": "US",
+      "region": "Louisiana"
+    },
+    "profiles": [
+		{
+			"network": "Linkedin",
+			"username": "Dennis Ezell",
+			"url" : "https://www.linkedin.com/in/dennis-ezell-bb49b970/"
+		},
+		{
+			"network": "GitHub",
+			"username": "Deeze814",
+			"url" : "https://github.com/Deeze814"
+		}
+	]
+  },
+  "work": [
+	{
+      "company": "CentralSquare Technologies (Merged Aptean public sector with Superion, Tritech, and Zuercher)",
+      "position": "Software Engineer",
+      "website": "https://www.centralsqr.com/",
+      "startDate": "2018-09-03",
+      "summary": "Jurisdiction Online - Project rollout lead team member",
+      "highlights": [
+		"Self-directed, Full stack Microsoft based development using ASP.NET combined with SQL Server",
+		"Lead member of project rollout team responsible for bringing new clients into the Jurisdiction Online system",
+		"Work with solution architects to provide overall project technical direction",
+		"Mentor new and less experienced developers",
+		"Serve as the lead project developer"		
+	  ]
+    },
+	{
+      "company": "Aptean (Acquired Jurisdiction Online from Praeses)",
+      "position": "Software Engineer",
+      "website": "https://www.aptean.com/our-company/about-us",
+      "startDate": "2017-12-04",
+      "endDate": "2018-09-03",
+      "summary": "Jurisdiction Online - Project rollout lead team member",
+      "highlights": [
+		"Self-directed, Full stack Microsoft based development using ASP.NET combined with SQL Server",
+		"Lead member of project rollout team responsible for bringing new clients into the Jurisdiction Online system",
+		"Design and implement new Case Management module within Jurisdiction Online leveraging new Hangfire service",
+		"Adopt Aurelia as the go-forward front-end technology for new development",
+		"Work with solution architects to provide overall project technical direction",
+		"Mentor new and less experienced developers",
+		"Serve as the lead project developer"		
+	  ]
+    },
+	{
+      "company": "Praeses",
+      "position": "Software Developer III",
+      "website": "https://www.praeses.com/",
+      "startDate": "2017-06-05",
+      "endDate": "2017-12-01",
+      "summary": "Jurisdiction Online - Project rollout senior team member",
+      "highlights": [
+		"Self-directed, Full stack Microsoft based development using ASP.NET combined with SQL Server",
+		"Senior member of project rollout team responsible for bringing new clients into the Jurisdiction Online system",
+		"Design and implement new Exam Management module within Jurisdiction Online",
+		"Serve as backup to lead project developer"		
+	  ]
+    },
+	{
+      "company": "Praeses",
+      "position": "Software Developer II",
+      "website": "https://www.praeses.com/",
+      "startDate": "2016-12-19",
+      "endDate": "2017-06-02",
+      "summary": "Jurisdiction Online - Project rollout team member",
+      "highlights": [
+		"Self-directed, full stack Microsoft based development using ASP.NET combined with SQL Server",
+		"Operate within an Agile Scrum team",
+		"Member of project rollout team responsible for bringing new clients into the Jurisdiction Online system",
+		"Design and implement new Exam Management module within Jurisdiction Online"
+	  ]
+	},
+	    {
+      "company": "CenturyLink",
+      "position": "Software Developer II",
+      "website": "https://www.centurylink.com/",
+      "startDate": "2016-06-06",
+      "endDate": "2016-12-16",
+      "summary": "Business Support Systems - Project initiative team member",
+      "highlights": [
+        "UI/Middleware development using Spring based REST services and Spring MVC for front-end interfaces",
+		"Cross-functional Agile team member for product initiative to consolidate legacy systems",
+		"Create REST based web-services for new project initiative data models",
+        "Create UI code to consume new REST web service data"
+      ]
+    },
+	{
+      "company": "Praeses",
+      "position": "Software Developer I",
+      "website": "https://www.praeses.com/",
+      "startDate": "2015-08-30",
+      "endDate": "2016-06-01",
+      "summary": "Jurisdiction Online - Customer support queue team member",
+      "highlights": [
+		"Full stack Microsoft based development using ASP.NET combined with SQL Server",
+		"Operate within an Agile methodology using Kanban for ticket prioritization",
+		"Work with support staff and clients to perform defect resolution"
+	  ]
+	},
+	{
+      "company": "CenturyLink",
+      "position": "Software Developer II",
+      "website": "https://www.centurylink.com/",
+      "startDate": "2012-06-10",
+      "endDate": "2015-08-27",
+      "summary": "Ensemble UI - Billing system user interface team member",
+      "highlights": [
+        "UI development using the Spring MVC framework in conjunction with JavaServer Pages",
+		"Collaborate with development teams on the execution of ideas/projects.",
+        "Create low-level design documentation based on system requirements ",
+        "Implement new code functionality based on approved design",
+		"Operate within a Waterfall methodology"	
+      ]
+    } 
+  ],
+  "education": [
+    {
+      "institution": "University of Louisiana at Monroe",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2009-08-17",
+      "endDate": "2013-05-13",
+      "gpa": "3.6"
+    },
+	{
+      "institution": "University of Louisiana at Monroe",
+      "area": "Chemistry",
+      "studyType": "Bachelor",
+      "startDate": "2002-08-19",
+      "endDate": "2008-05-12",
+      "gpa": "3.3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "Java",
+        "C#",
+        "Groovy",
+		"T-SQL",
+		"PL/SQL",
+		"JavaScript/jQuery",
+		"Typescript",
+		"HTML",
+		"XML",
+		"JSON",
+		"REST",
+		"SOAP"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "ASP.NET",
+		"ASP.NET Web API 2",
+		"Aurelia",
+		"Active Reports 10",
+		"StructureMap",
+		"Spring MVC",
+        "Grails"
+      ]
+    },
+	{
+      "name": "Unit/Integration Testing",
+      "keywords": [
+        "Moq",
+		"Visual Studio Unit Testing Framework",
+		"jUnit"
+      ]
+    },
+	{
+      "name": "Version Control",
+      "keywords": [
+        "BitBucket",
+		"GitHub",
+		"Apache Subversion"
+      ]
+    },
+	{
+      "name": "Build Tools",
+      "keywords": [
+        "Team City",
+		"Octopus",
+		"Jenkins"
+      ]
+    },
+	{
+      "name": "Database",
+      "keywords": [
+        "SQL Server 2014/2017",
+		"Oracle 12c"
+      ]
+    },
+	{
+      "name": "Project Management Tools",
+      "keywords": [
+        "Jira",
+		"Agile Zen",
+		"Rally"
+      ]
+    }
+  ]
+}
